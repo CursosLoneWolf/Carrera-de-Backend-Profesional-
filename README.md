@@ -3,9 +3,9 @@ Programa el backend de las mejores apps del mundo. Desarrolla en Django, Ruby on
 
 ### La carrera de Backend Profesional contiene
 
-Logo | Curso | Descripcion | Link
------------- | ------------- | ----------- | ----------
-![Backend Logo](https://static.platzi.com/media/achievements/git-github2x.png) | [Curso de Github](http://github.com/#) | Entiende e implementa Git y Github en tu flujo de trabajo. Son el estándar de la industria para control de versiones de código y tus proyectos. De cero a avanzado. | https://platzi.com/backend/
+Logo | Curso | Descripcion | Link | Respaldo
+------------ | ------------- | ----------- | ---------- | -----------
+![Backend Logo](https://static.platzi.com/media/achievements/git-github2x.png) | [Curso de Github](http://github.com/#) | Entiende e implementa Git y Github en tu flujo de trabajo. Son el estándar de la industria para control de versiones de código y tus proyectos. De cero a avanzado. | https://platzi.com/github/ | https://goo.gl/3T0Pdc
 ![Backend Logo](https://static.platzi.com/media/achievements/programacion-basica2x.png) | [Curso de Programación Básica](http://github.com) | Aprende desde cero a entender, leer y escribir código. Programar es tan esencial como leer. Crea arte interactivo, piensa como programador. | 
 ![Backend Logo](https://static.platzi.com/media/achievements/algoritmos2x.png) | [Curso de Algoritmos y Patrones de diseño](http://github.com) | Aprende algoritmos que ayudan a optimizar tu código y hacerlo mas limpio y escalable. Domina buenas prácticas de programación gracias a los patrones de diseño. | 
 ![Backend Logo](https://static.platzi.com/media/achievements/phyton-django2x.png) | [Curso de Python y Django](http://github.com) | Aprende las bases de Python y crea el backend de tu aplicación de manera ágil usando Django, el framework web favorito de la comunidad.
