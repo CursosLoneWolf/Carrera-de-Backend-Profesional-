@@ -6,8 +6,12 @@ Programa el backend de las mejores apps del mundo. Desarrolla en Django, Ruby on
 ### http://linkshrink.net/7rWuJQ
 
 
+## ++++++++++++++++++++++++++++++++++++++++++++++++++
+## ++++++++++++++++++++++++++++++++++++++++++++++++++
+
 # Proximamente !!!
 ## Links aun no disponibles!!!
+
 ### La carrera de Backend Profesional contiene
 
 Logo | Curso | Descripcion | Link | Respaldo
